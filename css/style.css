@@ -1330,6 +1330,9 @@ header{
     .container_brand .brand img{
         width: 100%;
     }
+    .container11 .media-img1 img{
+        width: 100px;
+    }
 }
 
 @media(max-width: 425px){
